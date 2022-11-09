@@ -115,7 +115,8 @@
     "hot/",
     "web_modules/",
     "schemas/",
-    "SECURITY.md"
+    "SECURITY.md",
+    "package.json-copy"
   ],
   "scripts": {
     "setup": "node ./setup/setup.js",
